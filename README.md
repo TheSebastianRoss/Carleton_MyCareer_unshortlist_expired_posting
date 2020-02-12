@@ -16,13 +16,13 @@
 - Go to the job listing page for the particular expired job you want to unshortlist
 - Copy the code in unshortlist.js to your clipboard
 - Open the developer console in your browser
--- Chrome: ctrl + shift + J / cmd + opt + J
--- Firefox: ctrl + shift + K / cmd + opt + K
--- Microsoft Edge and Internet Explorer: f12, then go to the console tab
--- Safari: cmd + opt + C
--- Opera: ctrl + shift + I / ⌘ + ⌥ + I
+  - Chrome: ctrl + shift + J / cmd + opt + J
+  - Firefox: ctrl + shift + K / cmd + opt + K
+  - Microsoft Edge and Internet Explorer: f12, then go to the console tab
+  - Safari: cmd + opt + C
+  - Opera: ctrl + shift + I / ⌘ + ⌥ + I
 - Paste it in to the console
 - Press enter
--- Warning! Executing someone else's code you don't understand in your console can be dangerous! (What? You really think someone would just go on the internet and tell lies?)
+  - Warning! Executing someone else's code you don't understand in your console can be dangerous! (What? You really think someone would just go on the internet and tell lies?)
 - Refresh your shortlist
 - Watch in awe as you see that your job has disappeared!
