@@ -10,7 +10,7 @@
 - The website uses the same code for every unshortlist button; the only thing you need to change in the code is the job ID
 - It is possible to gut the unshortlist button from another posting and insert its contents into another button on a different page
 - It is possible to use the information on the page to automatically determine the job ID without the user needing to enter it in manually
-- It is possible to put the code into an IFFE (Immediately Invoked Function Expression) to remove the requirement for a button entirely
+- It is possible to put the code into an single expression and remove the requirement for a button entirely
 
 ## Usage
 - Go to the job listing page for the particular expired job you want to unshortlist
